@@ -4,6 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "vite",
+    "dev:mock": "vite",
+    "dev:real": "vite --mode real",
     "build": "vite build",
     "preview": "vite preview"
   },
